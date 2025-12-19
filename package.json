@@ -1,0 +1,31 @@
+{
+  "name": "funngro-clone",
+  "version": "1.0.0",
+  "description": "Funngro is a skill-based learning and earning platform for teenagers, helping students gain real-world experience by working on live projects from companies.",
+  "author": "Nivesh Bansal",
+  "license": "MIT",
+  "homepage": "https://funngro-clone.vercel.app",
+  "keywords": [
+    "Funngro",
+    "earn for teens",
+    "internships for students",
+    "teen freelancing platform",
+    "student earning platform",
+    "learn and earn for teenagers",
+    "real world projects for students",
+    "teen skill development",
+    "online earning for students in India",
+    "Funngro alternative"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
