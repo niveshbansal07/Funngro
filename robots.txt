@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nivesh-bansal.vercel.app/sitemap.xml
+Sitemap: https://funngro-tau.vercel.app/sitemap.xml
